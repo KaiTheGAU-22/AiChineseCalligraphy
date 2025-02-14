@@ -1,0 +1,1 @@
+These are the original files for making the LoRA in StableDiffusion. Some of them were written by me, while the others were written by famous Chinese calligraphy artists, namely Huang Tingjian from the Song Dynasty and Jin Nong from the Qing Dynasty.
